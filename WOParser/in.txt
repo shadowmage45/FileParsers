@@ -1,0 +1,180 @@
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405209 CRCUS                    132 11/15/12        0          1        1
+CROAKIE CUSTOM EA                     10/30/12  PERLIS CLOTHING
+                                              CRAWFISH/PERLIS.COM/CRAWFISH
+                                              ORDER #411269
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405209^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBcrcus^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+CROAKIE RAW BLACK EA                        48 *         |       |         *
+0400     CR13             EA      10           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine:          Routing: 10
+                                       Work center: S1
+       Tools: SCREENING / SETUP
+Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
+              PRINT PER HOUR WAS 175EA AS OF 10/23/08 TODD R
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+CROAKIE RAW BONNY BLUE EACH                 60 *         |       |         *
+0400     CR117            EA      20           *         |       |         *
+                                               *=========|=======|=========*
+CROAKIE RAW NAVY EA                         24 *         |       |         *
+0400     CR16             EA      30           *         |       |         *
+                                               *=========|=======|=========*
+CROAKIE ACTION HANG TAG SOLID              132 *         |       |         *
+0412     CB6              EA      40           *         |       |         *
+                                               *=========|=======|=========*
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405210 CRCUS                   2500 11/20/12        0          1        1
+CROAKIE CUSTOM EA                     10/30/12  KENDALL PROMOTIONS INC
+                                              IWP THE PATIENT ADVOCATE
+                                              PHARMACY
+Job Number:                                   ORDER #411323
+
+
+
+^PY^b^M^H03^T0200^BNB405210^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBCRCUS^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+CROAKIE RAW ROYAL EA                      2500 *         |       |         *
+0400     CR15             EA      10           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine:          Routing: 10
+                                       Work center: S1
+       Tools: SCREENING / SETUP
+Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
+              PRINT PER HOUR WAS 175EA AS OF 10/23/08 TODD R
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405211 TA5WAL                     2 10/30/12        0          1        1
+WALMART TERRA MAX ROYAL CASE          10/30/12
+
+
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405211^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBTA5WAL^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+TERRA MAX SOLID ROYAL EACH                  72 *         |       |         *
+0416     TA05             EA      10           *         |       |         *
+                                               *=========|=======|=========*
+TERRA CORD ADJ MAX HANG TAG                 72 *         |       |         *
+0426     176443           EA      20           *         |       |         *
+                                               *=========|=======|=========*
+POLY BAG 7" X 15" 1.5MIL                     0 *         |       |         *
+0442     920410           EA      30           *         |       |         *
+                                               *=========|=======|=========*
+WALMART BOX RAW  12 X 6 X 4                  2 *         |       |         *
+0413     003000           EA      40           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 10
+                                       Work center: P11
+       Tools:
+Instructions: STICKER FOR WALMART RYL TERRA CORD
+              UPC 000 88989 21882 1
+              PACK 3 PER BAG 12 3PKS PER BOX
+              MARK ODD BAG
+              CAVER BAR CODE
+              BAG STICKER
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris

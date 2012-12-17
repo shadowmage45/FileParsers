@@ -1,0 +1,25 @@
+Windows Registry Editor Version 5.00 
+
+[HKEY_CLASSES_ROOT\.jar] 
+@="jarfile" 
+
+[HKEY_CLASSES_ROOT\jarfile\DefaultIcon] 
+@="C:\\Java\\jdk1.7.0\\bin\\java.exe,1" 
+
+[HKEY_CLASSES_ROOT\jarfile\shell\open] 
+@="Run Java Program" 
+
+[HKEY_CLASSES_ROOT\jarfile\shell\open\command] 
+@="\"C:\\Java\\jdk1.7.0\\bin\\java.exe\" -jar \"%1\" %*" 
+
+[HKEY_CLASSES_ROOT\jarfile\shellex\DropHandler] 
+@="{86C86720-42A0-1069-A2E8-08002B30309D}"
+
+
+
+//set entry point when compiling jar
+
+jar cfe barcodeParser.jar Launcher *.class 
+
+//batch file command to print from wordpad
+"C:\Program Files\Windows NT\Accessories\wordpad.exe" /p "whatever.rtf"
