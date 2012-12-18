@@ -47,7 +47,6 @@ public static MaterialsParser instance()
   return INSTANCE;
   }
 
-
 public static void main(String... aArgs)
   {
   if(aArgs.length>0)
@@ -59,15 +58,9 @@ public static void main(String... aArgs)
     instance().parseFile("in.txt");
     }
   }
-boolean hasRan = false;
+
 public void parseFile(String fileName)
-  {
-  if(hasRan)
-    {
-    System.out.println("attempting to parse twice");
-    return;
-    }
-  hasRan = true;
+  {  
   /**
    * A filter list...
    */
