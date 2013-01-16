@@ -1,7 +1,16 @@
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
+import java.util.Calendar;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Scanner;
@@ -10,7 +19,131 @@ import java.util.Scanner;
 public class FileParseTest 
 {
 
-public void doParseTest(String name)
+int freq;
+String path;
+
+
+/**
+ * infinite directory monitor loop
+ * @param freq
+ * @param path
+ */
+public void setupMonitor(int freq, String path)
+  {
+  System.out.println("seting up directory monitor");
+  while(true)
+    {
+    try
+      {
+      Thread.sleep(freq*1000);
+      //this.wait(freq*1000);
+      } 
+    catch (InterruptedException e)
+      {      
+      e.printStackTrace();
+      System.out.println("interrupted Sleep!!!");
+      //break;
+      }
+    File dir = new File(path);
+    File [] files = dir.listFiles();
+    if(files==null)
+      {
+      continue;
+      }
+    for(int i = 0; i < files.length ; i++)
+      {
+      File file = files[i];
+      if(file==null || file.isDirectory())
+        {
+        continue;
+        }
+      System.out.println("Attempting to process: "+file.getName());
+      if(!doParseTest(file.getAbsolutePath()))
+        {        
+        continue;
+        }
+      
+      System.out.println("Processing successful.");
+      
+      
+      try
+        {
+        System.out.println("Attempting to print: "+file.getName());
+        //Runtime.getRuntime().exec("cmd /c wordpad.exe /p output.rtf");
+        Runtime.getRuntime().exec("cmd /c auto-print.bat "+file.getName());
+        System.out.println("Sucessfully sent to printer.");
+        System.out.println("Sleeping to wait for print job to clear.");
+        Thread.sleep(10*1000);
+        } 
+      catch (IOException e)
+        {
+        System.out.println("SEVERE ERROR PRINTING FILE VIA BATCH");
+        e.printStackTrace();
+        continue;
+        } 
+      catch (InterruptedException e)
+        {
+        System.out.println("INTERRUPTED WHILE SLEEPING AFTER PRINT-JOB");
+        e.printStackTrace();
+        continue;
+        }
+      
+      
+      System.out.println("Copying: "+file.getName()+" to /archive");
+      copyFileTo(file, file.getParent()+"/archive/"+getFileTS());
+      
+      /**
+       * delete the origin file, since we have already copied it into archive
+       */
+      try
+        {
+        System.out.println("Cleaning up:  Attempting to delete: "+file.getPath());
+        Files.delete(file.toPath());
+        System.out.println("File deleted, resuming directory monitoring.");
+        } 
+      catch (IOException e)
+        {
+        e.printStackTrace();
+        }
+      }
+    }
+  }
+
+public String getFileTS()
+  {
+  Calendar cal = Calendar.getInstance();
+  return cal.get(cal.MONTH)+"-"+cal.get(cal.DAY_OF_MONTH)+"-"+cal.get(cal.YEAR)+ "--"+cal.get(cal.HOUR_OF_DAY)+"-"+cal.get(cal.MINUTE)+"-"+cal.get(cal.SECOND);
+  }
+
+public void copyFileTo(File file, String destination)
+  {
+  InputStream reader =null ;
+  OutputStream output=null;
+  try
+    {
+    reader = new FileInputStream(file);
+    output = new FileOutputStream(new File(destination));
+    byte[] readBuffer = new byte[1024];
+    int length;
+    while((length = reader.read(readBuffer))>0)
+      {
+      output.write(readBuffer,0,length);
+      }
+    output.close();
+    reader.close();
+    } 
+  catch (FileNotFoundException e)
+    {    
+    e.printStackTrace();
+    } 
+  catch (IOException e)
+    {
+    e.printStackTrace();
+    }
+  
+  }
+
+public boolean doParseTest(String name)
   {
   /**
    * A list to temporarily store lines in for parsing
@@ -58,7 +191,7 @@ public void doParseTest(String name)
     {
     if(scan==null)
       {
-      return;      //if file was not initialized, exit early.
+      return false;      //if file was not initialized, exit early.
       }    
     }  
   
@@ -159,6 +292,7 @@ public void doParseTest(String name)
   catch (IOException e)//these try/catch sections will only run if there are errors regarding file loading, reading, or writing
     {
     e.printStackTrace();
+    return false;
     }
   finally
     {
@@ -167,7 +301,7 @@ public void doParseTest(String name)
      */
     if(writer==null)//
       {
-      return;
+      return false;
       }
     }  
   
@@ -186,6 +320,7 @@ public void doParseTest(String name)
     {
     scan.close();
     }  
+  return true;
   }
 
 
