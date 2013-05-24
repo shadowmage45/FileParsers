@@ -1,52 +1,37 @@
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405209 CRCUS                    132 11/15/12        0          1        1
-CROAKIE CUSTOM EA                     10/30/12  PERLIS CLOTHING
-                                              CRAWFISH/PERLIS.COM/CRAWFISH
-                                              ORDER #411269
-Job Number:
+^PY^b^M^H03^T0001^BNB428091^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
 
+CROAKIES                                                                                   PPs-no: 00428091
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/06/13
+BOZEMAN, MT 59718                                                                            Type: B2B
+                                                                                             Page: 1
+    S    OPTICAL CENTER LTD      C                                                       Order-no: 422273
+    H T  107 CHURCH STREET                                                                 Ship-no 04596500
+    I O  BURLINGTON VT 05401                                                          Charge-cust: 04596500
+    P    UNITED STATES                                                                    cust-no: 04596500
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Cristina Jefferson
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 20130503B2B
+ Ship Via: UPS/GROUND                 Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+  1  26 TAMI23HT        0001    TERRA MIDDI OLIVE HT                    1 EA  05/06/13_______ __________  _______
 
 
-^PY^b^M^H03^T0200^BNB405209^G^*^PN
+  2  56 SUITCXLBSHT     0511    SUITER XL COTTON SOLID MIX EA           6 EA  05/06/13_______ __________  _______
 
 
-^PY^b^M^H03^T0200^BNBCRCUS^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-CROAKIE RAW BLACK EA                        48 *         |       |         *
-0400     CR13             EA      10           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine:          Routing: 10
-                                       Work center: S1
-       Tools: SCREENING / SETUP
-Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
-              PRINT PER HOUR WAS 175EA AS OF 10/23/08 TODD R
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-CROAKIE RAW BONNY BLUE EACH                 60 *         |       |         *
-0400     CR117            EA      20           *         |       |         *
-                                               *=========|=======|=========*
-CROAKIE RAW NAVY EA                         24 *         |       |         *
-0400     CR16             EA      30           *         |       |         *
-                                               *=========|=======|=========*
-CROAKIE ACTION HANG TAG SOLID              132 *         |       |         *
-0412     CB6              EA      40           *         |       |         *
-                                               *=========|=======|=========*
+  3   2 SCSUL14HT       0512    SC LEATHER SUEDE BRWN SPEC END          6 EA  05/06/13_______ __________  _______
 
 
+  4   4 SCSUL13HT       0512    SC LEATHER SUEDE BLACK SPEC EN          6 EA  05/06/13_______ __________  _______
 
 
+  5  28 TASC9HT         0512    TERRA SPEC ADJ PEWTER EA                2 EA  05/06/13_______ __________  _______
 
 
 
@@ -56,41 +41,11 @@ CROAKIE ACTION HANG TAG SOLID              132 *         |       |         *
 
 
 
-Page :          1
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405210 CRCUS                   2500 11/20/12        0          1        1
-CROAKIE CUSTOM EA                     10/30/12  KENDALL PROMOTIONS INC
-                                              IWP THE PATIENT ADVOCATE
-                                              PHARMACY
-Job Number:                                   ORDER #411323
 
 
 
-^PY^b^M^H03^T0200^BNB405210^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBCRCUS^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-CROAKIE RAW ROYAL EA                      2500 *         |       |         *
-0400     CR15             EA      10           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine:          Routing: 10
-                                       Work center: S1
-       Tools: SCREENING / SETUP
-Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
-              PRINT PER HOUR WAS 175EA AS OF 10/23/08 TODD R
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
@@ -103,127 +58,107 @@ Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
 
 
 
+^PY^b^M^H03^T0001^BNB428092^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
 
+CROAKIES                                                                                   PPs-no: 00428092
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/15/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    ORIENT FAIR DEVELOPMENT                                                         Order-no: 422539
+    H T  ROOM 1018 VANTA INDUST'L CTR                                                      Ship-no 03971000
+    I O  21-33 TAI LIN PAI ROAD                                                       Charge-cust: 03971000
+    P    KWAI CHUNG N T                                                                   cust-no: 03971000
+         HONG KONG                                                                         Ord/BO: order
+                                                                                 Order Entered By: Kristin Frank
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 131039
+ Ship Via: INT'L UPS F CHGD           Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+                                WT RCVD 5/10
+                                                         KF
+                            PHONE: 011-85224101952
+                            CONTACT: SIMON
+                            **
+                            3 COPIES OF INVOICE ON OUTSIDE
+                            OF BOX. CANCEL ALL B/O'S.
+                            SIGNED CERT OF ORIGIN
+                            **
+                            FAX AWB# AND ETA
+                            011 852 2418 0544
 
+  1   8 SHIPCX                  SHIP AND HAND CHRG CROK EXPORT          1 EA  05/15/13_______ __________  _______
 
 
+  2   1 CR1BSHT         0511    CROAKIE BASIC MIX EACH                100 EA  05/15/13_______ __________  _______
 
 
+  3   3 TABSHT          0511    TERRA MAX ADJ SOLID MIX EACH          465 EA  05/15/13_______ __________  _______
 
 
+  4   4 CRNATHT         0511    CRK PRINT NATURAL COLLECTION           70 EA  05/15/13_______ __________  _______
 
 
+  5   5 TAPRHT          0511    TERRA MAX ADJ PRINT MIX EACH          550 EA  05/15/13_______ __________  _______
 
 
+  6   6 TASCBSHT        0511    TERRA SPEC ADJ SOLID MIX EACH         500 EA  05/15/13_______ __________  _______
 
-Page :          1
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405211 TA5WAL                     2 10/30/12        0          1        1
-WALMART TERRA MAX ROYAL CASE          10/30/12
 
+  7   7 TASCPRHT        0511    TERRA SPEC ADJ PRINT MIX EACH         525 EA  05/15/13_______ __________  _______
 
-Job Number:
 
+  8   2 CRCAHT          0512    CROAKIE CAMO MIX HT                    70 EA  05/15/13_______ __________  _______
 
 
-^PY^b^M^H03^T0200^BNB405211^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBTA5WAL^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-TERRA MAX SOLID ROYAL EACH                  72 *         |       |         *
-0416     TA05             EA      10           *         |       |         *
-                                               *=========|=======|=========*
-TERRA CORD ADJ MAX HANG TAG                 72 *         |       |         *
-0426     176443           EA      20           *         |       |         *
-                                               *=========|=======|=========*
-POLY BAG 7" X 15" 1.5MIL                     0 *         |       |         *
-0442     920410           EA      30           *         |       |         *
-                                               *=========|=======|=========*
-WALMART BOX RAW  12 X 6 X 4                  2 *         |       |         *
-0413     003000           EA      40           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: H    HOME ASSEMBLY                Machine:          Routing: 10
-                                       Work center: P11
-       Tools:
-Instructions: STICKER FOR WALMART RYL TERRA CORD
-              UPC 000 88989 21882 1
-              PACK 3 PER BAG 12 3PKS PER BOX
-              MARK ODD BAG
-              CAVER BAR CODE
-              BAG STICKER
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
+^PY^b^M^H03^T0001^BNB428093^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
 
+CROAKIES                                                                                   PPs-no: 00428093
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/07/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    STYLE IN CORP           C                                                       Order-no: 422557
+    H T  405-417 FT LAUDERDALE BCH BLVD                                                    Ship-no 05415700
+    I O  FORT LAUDERDALE FL 33316                                                     Charge-cust: 05415700
+    P    UNITED STATES                                                                    cust-no: 05415700
+                                                                                           Ord/BO: back-order
+                                                                                 Order Entered By: Kelly Nesselhuff
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 130507
+ Ship Via: UPS/GROUND                 Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
 
 
+                                                            KN
+
+  1  13 ROCKHT          0511    REFILL OPTICAL CARE KIT W/URT          12 EA  05/07/13_______ __________  _______
 
 
+  2   8 TASC9HT         0512    TERRA SPEC ADJ PEWTER EA               24 EA  05/07/13_______ __________  _______
 
 
 
 
 
 
-Page :          1
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405212 TASCTE05WAL                4 10/30/12        0          1        1
-WALMART TITE END ADJ ROYAL            10/30/12
 
 
-Job Number:
 
 
 
-^PY^b^M^H03^T0200^BNB405212^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBTASCTE05WAL^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-TITE END RAW ROYAL                         144 *         |       |         *
-0403     TE05             EA      10           *         |       |         *
-                                               *=========|=======|=========*
-TITE END SM SPINE HANGTAG EA               144 *         |       |         *
-0426     176442           EA      20           *         |       |         *
-                                               *=========|=======|=========*
-POLY BAG 7" X 15" 1.5MIL                     0 *         |       |         *
-0442     920410           EA      30           *         |       |         *
-                                               *=========|=======|=========*
-WALMART BOX RAW  12 X 6 X 4                  4 *         |       |         *
-0413     003000           EA      40           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: H    HOME ASSEMBLY                Machine:          Routing: 10
-                                       Work center: P99
-       Tools:
-Instructions:
-              STICKER FOR WALMART RYL TITE END ADJ
-              UPC 088989229988
-              PRICE $3.83 PER 3 PK
-              PACK IN 3PKS / THEN PUT 12 3 PKS PER BOX
-              PAYS$.065 EACH OR$.1975 PER 3 PACK
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
@@ -236,108 +171,51 @@ Instructions:
 
 
 
-Page :          1
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405213 CULNB3A                  300 11/09/12        0          1        1
-CUST NEO 3/4 MOD BUCKLE O-RING        10/30/12  BUSINESS INNOVATIONS
-                                              NASA LOGO/AMES RESEARCH CENTER
-                                              ORDER #411267
-Job Number:
 
 
 
-^PY^b^M^H03^T0200^BNB405213^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBCULNB3A^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-LANYARD RAW EACH NAVY                      300 *         |       |         *
-0413     034502           EA      10           *         |       |         *
-                                               *=========|=======|=========*
-LANYARD CLAM 5/8" BUCKLE                   300 *         |       |         *
-0476     034548           EA      20           *         |       |         *
-                                               *=========|=======|=========*
-LANYARD CLAM O RING PIN HOLES              300 *         |       |         *
-0476     034547           EA      30           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: 2        Routing: 10
-                                       Work center: S1
-       Tools:
-Instructions: PRINT ONE COLOR LOGO
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-                                         LABOR
-Operat.: H    HOME ASSEMBLY                Machine:          Routing: 20
-                                       Work center: 2
-       Tools:
-Instructions: ASSEMBLE MODULAR SYSTEM AND ATTACH END PIECE  $.075 EACH
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
+^PY^b^M^H03^T0001^BNB428094^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
 
+CROAKIES                                                                                   PPs-no: 00428094
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    ANGEL ORTEGA                                                                    Order-no: 422804
+    H T  4525 HENRY HUDSON PKWY                                                            Ship-no 70010100
+    I O  APT. BG1                                                                     Charge-cust: 70010100
+    P    BRONX NY 10471                                                                   cust-no: 70010100
+         UNITED STATES                                                                     Ord/BO: order
+                                                                                 Order Entered By: Kelly Nesselhuff
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: ORTEGA/ANGEL
+ Ship Via: BEST-FRT CHARGED           Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+                                pa visa 5/13
+                                                         KN
+
+  1   4 SHIP                    SHIPPING AND HANDLING CHARGE            1 EA  05/13/13_______ __________  _______
 
 
+  2   1 SUITM6HT        0512    SUITER MICRO NAVY EACH                  1 EA  05/13/13_______ __________  _______
 
 
+  3   2 tami103ht       0513    TERRA MIDDI HUNTER GOLD HT              1 EA  05/13/13_______ __________  _______
 
-Page :          1
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405214 CB02                     300 11/09/12        0          1        1
-LANYARD BREAK-A-WAY 3/4"              10/30/12  BUSINESS INNOVATIONS
-                                              (breakaway)
-                                              ORDER #411267
-Job Number:
 
+  4   3 TASCXL111HT     0513    TERRA SPEC LONG ELECTRIC BLUE           1 EA  05/13/13_______ __________  _______
 
 
-^PY^b^M^H03^T0200^BNB405214^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBCB02^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-BREAKAWAY MALE  3/4  #7633                 300 *         |       |         *
-0413     034532           EA      10           *         |       |         *
-                                               *=========|=======|=========*
-BREAKAWAY FEMALE 3/4  #7634                300 *         |       |         *
-0413     034533           EA      20           *         |       |         *
-                                               *=========|=======|=========*
-BREAKAWAY LID  3/4  #7635                  600 *         |       |         *
-0413     034534           EA      30           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: H    HOME ASSEMBLY                Machine:          Routing: 10
-                                       Work center: 2
-       Tools:
-Instructions: CUT LANYARD IN HALF
-              ATTACH BREAK-AWAY PARTS
-              PRICE $.11
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
@@ -356,54 +234,47 @@ Instructions: CUT LANYARD IN HALF
 
 
 
-Page :          1
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405215 TASCTE06WAL               11 10/30/12        0          1        1
-WALMART TITE END ADJ NAVY CASE        10/30/12
 
 
-Job Number:
 
 
+^PY^b^M^H03^T0001^BNB428095^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
 
-^PY^b^M^H03^T0200^BNB405215^G^*^PN
+CROAKIES                                                                                   PPs-no: 00428095
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    WHALERS GENERAL STORE #377 C7                                                   Order-no: 422805
+    H T  75-5669-A ALII DRIVE                                                              Ship-no FOOD0377
+    I O  KAILUA/KONA HI 96740                                                         Charge-cust: 03900200
+    P    UNITED STATES                                                                    cust-no: FOOD0377
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Heidi Christman
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: JACOBS
+ Ship Via: BEST-NO CHARGE             Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+                                N/C SHIP PER R.JACOBS
+                                                            HC
+                            FOR ALL STORES:
+                            INVOICING: COPY OF INVOICE
+                            WITH SHIPMENT.
+                            **
+                            NO B/O'S. STORE# & PO# ON
+                            OUTSIDE OF BOXES. IF UNABLE TO
+                            SHIP PPRR CALL REP.
+                            PRETICKET ALL MERCHANDISE. WE
+                            MAKE THE TICKETS.
 
+  1   1 DIS3C           0522    DISPLAY 3 SIDED CT NO PRODUCT           1 EA  05/13/13_______ __________  _______
 
-^PY^b^M^H03^T0200^BNBTASCTE06WAL^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-TERRA TITE ENDS RAW NAVY                   396 *         |       |         *
-0403     TE06             EA      10           *         |       |         *
-                                               *=========|=======|=========*
-TITE END SM SPINE HANGTAG EA               396 *         |       |         *
-0426     176442           EA      20           *         |       |         *
-                                               *=========|=======|=========*
-POLY BAG 7" X 15" 1.5MIL                     0 *         |       |         *
-0442     920410           EA      30           *         |       |         *
-                                               *=========|=======|=========*
-WALMART BOX RAW  12 X 6 X 4                 11 *         |       |         *
-0413     003000           EA      40           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: H    HOME ASSEMBLY                Machine:          Routing: 10
-                                       Work center: P99
-       Tools:
-Instructions:
-              STICKER FOR WALMART NVY TITE END ADJ
-              UPC 088989226154
-              PRICE $3.83 PER 3 PK
-              PACK IN 3PKS / THEN PUT 12 3 PKS PER BOX
-              PAYS$.065 EACH OR$.1975 PER 3 PACK
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
+                            N/C DISPLAY TO REPLACE
+                            DAMAGED FM PREV ORDER#417563
 
 
 
@@ -416,53 +287,52 @@ Instructions:
 
 
 
-Page :          1
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405216 CRCUS                    100 11/09/12        0          1        1
-CROAKIE CUSTOM EA                     10/30/12  DUFFY PROMOTIONS
-                                              MCCALLIE TAILGATING SOCIETY
-                                              ORDER #410803
-Job Number:
 
 
 
-^PY^b^M^H03^T0200^BNB405216^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBCRCUS^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-CROAKIE RAW ROYAL EA                       100 *         |       |         *
-0400     CR15             EA      10           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine:          Routing: 10
-                                       Work center: S1
-       Tools: SCREENING / SETUP
-Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
-              PRINT PER HOUR WAS 175EA AS OF 10/23/08 TODD R
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
 
 
 
+^PY^b^M^H03^T0001^BNB428096^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
 
+CROAKIES                                                                                   PPs-no: 00428096
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/11/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    Jean-Philippe Beaulieu                                                          Order-no: 422828
+    H T  1880 Rang des Pins Rouges                                                         Ship-no 70010400
+    I O  St-Alexis-des-Monts QC J0K 1V0                                               Charge-cust: 70010400
+    P    CANADA                                                                           cust-no: 70010400
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Heidi Christman
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 24075
+ Ship Via: BEST-FRT CHARGED           Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+                                HC/REF VISA $8/CHG SUIT TO
+                                (514) 254-8495    MICROSUIT
+                            ATTN: SHIPPING  PLEASE INCLUDE
+                            INVOICE WITH SHIPMENT. PLEASE
+                            FORWARD TRACKING # TO THE
+                            E-MAIL ADDRESS.
 
+  1   1 Ship                    SHIPPING AND HANDLING CHARGE            1 EA          _______ __________  _______
 
 
+  2   3 SUITM3HT        0511    SUITER MICRO BLK EACH                   4 EA  05/11/13_______ __________  _______
 
 
+  3   2 SUITM6HT        0512    SUITER MICRO NAVY EACH                  4 EA  05/11/13_______ __________  _______
 
 
 
@@ -476,59 +346,47 @@ Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
 
 
 
-Page :          1
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405217 CRK5WAL                    3 10/30/12        0          1        1
-WALMART CROAKIES KID ROYAL CA         10/30/12
 
 
-Job Number:
 
 
 
-^PY^b^M^H03^T0200^BNB405217^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBCRK5WAL^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-CROAKIE RAW KID ROYAL EA                   108 *         |       |         *
-0400     CR1K5            EA      10           *         |       |         *
-                                               *=========|=======|=========*
-CROAKIE HANG TAG KIDS SOLID                108 *         |       |         *
-0426     301555           EA      20           *         |       |         *
-                                               *=========|=======|=========*
-WALMART BOX RAW  12 X 6 X 4                  3 *         |       |         *
-0413     003000           EA      30           *         |       |         *
-                                               *=========|=======|=========*
-POLY BAG 4X18  1.5 MIL                       0 *         |       |         *
-0442     030791           EA      40           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: H    HOME ASSEMBLY                Machine:          Routing: 10
-                                       Work center: P1
-       Tools:
-Instructions:
-              STICKER FOR WALMART ROYAL KID CROAKIES
-              UPC 088989220619  PACK IN 3PKS / MARK ODD BAG PUT 12 3PKS
-              PER BOX COVER BAR CODE
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
 
 
+^PY^b^M^H03^T0001^BNB428097^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
 
+CROAKIES                                                                                   PPs-no: 00428097
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/12/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    Joe Charters                                                                    Order-no: 422855
+    H T  3234 Sedge Pl                                                                     Ship-no 70010400
+    I O  Naples FL 34105                                                              Charge-cust: 70010400
+    P    UNITED STATES                                                                    cust-no: 70010400
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Heidi Christman
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 24104
+ Ship Via: BEST-FRT CHARGED           Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+                                PP VISA ADD PRODUCT 6.99    HC
+                                2404267979
+                            ATTN: SHIPPING  PLEASE INCLUDE
+                            INVOICE WITH SHIPMENT. PLEASE
+                            FORWARD TRACKING # TO THE
+                            E-MAIL ADDRESS.
 
+  1   5 TA11HT          0403    TERRA MAX ADJ YELLOW EACH HT            1 EA  05/12/13_______ __________  _______
 
 
 
@@ -536,41 +394,11 @@ Instructions:
 
 
 
-Page :          1
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405218 CRCUS                    100 11/09/12        0          1        1
-CROAKIE CUSTOM EA                     10/30/12  THREDS INC
-                                              MERCURY RACING
-                                              ORDER #411333
-Job Number:
 
 
 
-^PY^b^M^H03^T0200^BNB405218^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBCRCUS^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-CROAKIE RAW BLACK EA                       100 *         |       |         *
-0400     CR13             EA      10           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine:          Routing: 10
-                                       Work center: S1
-       Tools: SCREENING / SETUP
-Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
-              PRINT PER HOUR WAS 175EA AS OF 10/23/08 TODD R
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
@@ -590,110 +418,53 @@ Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
 
 
 
+^PY^b^M^H03^T0001^BNB428098^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
 
+CROAKIES                                                                                   PPs-no: 00428098
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    CAROL HORSTMAN                                                                  Order-no: 422902
+    H T  56 E. LAKEWOOD DRIVE                                                              Ship-no 70010100
+    I O  FENDON MS 63026                                                              Charge-cust: 70010100
+    P    UNITED STATES                                                                    cust-no: 70010100
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Kelly Nesselhuff
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: HORSTMAN/CAROL
+ Ship Via: BEST-FRT CHARGED           Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+                                PA AMEX 5/13
+                                                           KN
+
+  1   2 SHIP                    SHIPPING AND HANDLING CHARGE            1 EA  05/13/13_______ __________  _______
 
 
+  2   1 LX02HT          0513    HT LINX #100JB0753                     10 EA  05/13/13_______ __________  _______
 
 
 
-Page :          1
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405219 TE03                     500 10/30/12        0          1        1
-TERRA TITE ENDS RAW BLACK             10/30/12
 
 
-Job Number:
 
 
 
-^PY^b^M^H03^T0200^BNB405219^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBTE03^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-TERRA CORD MICRO 3.2MM BLACK           1000.00 *         |       |         *
-0429     554060           FT      10           *         |       |         *
-                                               *=========|=======|=========*
-TERRA MICRO MOLDED BEAD BLACK              500 *         |       |         *
-0422     802446           EA      20           *         |       |         *
-                                               *=========|=======|=========*
-BASELL PRO-FAX PD 702 PLST 50#          0.0000 *         |       |         *
-0424     195083           PD      30           *         |       |         *
-                                               *=========|=======|=========*
-TERRA MAX RAW RUBBER PELLETS            0.0000 *         |       |         *
-0424     051492           PD      40           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: tc cuttr Routing: 10
-                                       Work center: t11
-       Tools: MOLDER/CUTTER
-Instructions: MOLD & CUT TITE END ADJ 24"LONG
-              300 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: 20       Routing: 20
-                                       Work center: T7
-       Tools: IPC MOLDER
-Instructions: OVER MOLD TITE END ADJ
-              400 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
-Page :          1                    cont :          2
 
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405219 TE03                     500 10/30/12        0          1        1
-TERRA TITE ENDS RAW BLACK             10/30/12
 
 
-Job Number:
 
 
 
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: 19       Routing: 30
-                                       Work center: T6
-       Tools: POWER BEADER MICRO BEADS
-Instructions: BEAD TITE END ADJ WITH MICRO TERRA BEAD
-              450 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-                                         LABOR
-Operat.: H    HOME ASSEMBLY                Machine:          Routing: 40
-                                       Work center: M18
-       Tools: HOME ASSEMBLY
-Instructions: PULL BEAD & BUNDLE 50 PER BUNDLE / MARK ODD BUNDLE
-              $.02 PER EACH CORD
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
@@ -707,233 +478,174 @@ Instructions: PULL BEAD & BUNDLE 50 PER BUNDLE / MARK ODD BUNDLE
 
 
 
+^PY^b^M^H03^T0001^BNB428099^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
 
+CROAKIES                                                                                   PPs-no: 00428099
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/14/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    WAL-MART OPTICAL DC 7054                                                        Order-no: 422903
+    H T  2525 ROHR ROAD, DOCK DOOR 3                                                       Ship-no WALM7054
+    I O  LOCKBOURNE OH 43137                                                          Charge-cust: 04440600
+    P    UNITED STATES                                                                    cust-no: 04440600
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Jenn Scarola
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 05/24/13                   Cust-po-no: 9403143423
+ Ship Via: UPS/CONSIGNEE              Total Weight: 0                          Department: 00049
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+                                0020
+                                I570
+                            EDI ORDERS & EDI INVOICING.
+                            ASN INFO FOR WT,CNT & TRACK#
+                            **
+                            ATTN INVOICING: NO FRT ON INV.
+                            DO NOT MAIL WHITE - GIVE WHITE
+                            TO JEN. THANK YOU!
+                            **** ADHERE TO SHIP/CANCEL
+                            DATES.  ABSOLUTELY NO BO'S
+                            EVEN IF OK'D BY BUYER.  MUST
+                            HAVE NEW PURCHASE ORDER ****
+                            SHIP UPS/CONSIGNEE GROUND IF
+                            COMBINED PO'S FOR THE SAME DAY
+                            ARE LESS THAN 149LBS. NO AIR
+                            SHIPMENTS. 70LB MAX P/CARTON.
+                            IF OVER, CALL TRAFFIC
+                            (501)273-4300 FOR ROUTING.
+                            SHIP POINT #96277400.  NO
+                            EXCEPTIONS OR CHARGEBACKS.
+                            MARK CARTONS W/PO#, DEPT#49,
+                            VENDOR STOCK#,
+                            WALMART ITEM# AND FOR: VISION
+                            CENTER AND STORE# IN 2" SIZE
+                            W/BLK PERMANENT MARKER. PO# ON
+                            B/L & MANIFEST. EA STYLE PKGD
+                            SEPARATELY.
 
+  1  19 ARCB16WAL       0511    WALMART ARC 16" BLACK CASE             37 CA  05/14/13_______ __________  _______
 
 
+  2   1 CRK3WAL         0513    WALMART CRK KID BLACK CASE              4 CA  05/14/13_______ __________  _______
 
 
+  3   2 CRK5WAL         0513    WALMART CROAKIES KID ROYAL CA           8 CA  05/14/13_______ __________  _______
 
+                                                                                               Continued:  2
 
 
-Page :          2
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405220 TE03                     500 10/30/12        0          1        1
-TERRA TITE ENDS RAW BLACK             10/30/12
 
+                                            ***** P I C K I N G  S L I P *****
 
-Job Number:
+CROAKIES                                                                                   PPs-no: 00428099
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/14/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 2
+    S    WAL-MART OPTICAL DC 7054                                                        Order-no: 422903
+    H T  2525 ROHR ROAD, DOCK DOOR 3                                                       Ship-no WALM7054
+    I O  LOCKBOURNE OH 43137                                                          Charge-cust: 04440600
+    P    UNITED STATES                                                                    cust-no: 04440600
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Jenn Scarola
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 05/24/13                   Cust-po-no: 9403143423
+ Ship Via: UPS/CONSIGNEE              Total Weight: 0                          Department: 00049
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
 
+  4   3 SD03WAL         0513    WALMART SHADE DOCK BLK 24 PK           16 CA  05/14/13_______ __________  _______
 
 
-^PY^b^M^H03^T0200^BNB405220^G^*^PN
+  5   4 TASCTE03WAL     0513    WALMART TITE END ADJ BLACK 3PK         36 CA  05/14/13_______ __________  _______
 
 
-^PY^b^M^H03^T0200^BNBTE03^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-TERRA CORD MICRO 3.2MM BLACK           1000.00 *         |       |         *
-0429     554060           FT      10           *         |       |         *
-                                               *=========|=======|=========*
-TERRA MICRO MOLDED BEAD BLACK              500 *         |       |         *
-0422     802446           EA      20           *         |       |         *
-                                               *=========|=======|=========*
-BASELL PRO-FAX PD 702 PLST 50#          0.0000 *         |       |         *
-0424     195083           PD      30           *         |       |         *
-                                               *=========|=======|=========*
-TERRA MAX RAW RUBBER PELLETS            0.0000 *         |       |         *
-0424     051492           PD      40           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: tc cuttr Routing: 10
-                                       Work center: t11
-       Tools: MOLDER/CUTTER
-Instructions: MOLD & CUT TITE END ADJ 24"LONG
-              300 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: 20       Routing: 20
-                                       Work center: T7
-       Tools: IPC MOLDER
-Instructions: OVER MOLD TITE END ADJ
-              400 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
+  6   5 SUITM3WAL       0513    WALMART MICRO SUIT BLK 3PK             27 CA  05/14/13_______ __________  _______
 
 
+  7   6 TNSC4WAL        0513    WALMART TERRA SPEC NON ADJ BRN         36 CA  05/14/13_______ __________  _______
 
-Page :          1                    cont :          2
 
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405220 TE03                     500 10/30/12        0          1        1
-TERRA TITE ENDS RAW BLACK             10/30/12
+  8   7 TA3WAL          0513    WALMART TERRA MAX BLK 3PK              28 CA  05/14/13_______ __________  _______
 
 
-Job Number:
+  9   8 TNSC3WAL        0513    WALMART TERRA SPEC NON ADJ BLK         64 CA  05/14/13_______ __________  _______
 
 
+ 10   9 CRK18WAL        0513    WALMART CRK KID PINK CASE               5 CA  05/14/13_______ __________  _______
 
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: 19       Routing: 30
-                                       Work center: T6
-       Tools: POWER BEADER MICRO BEADS
-Instructions: BEAD TITE END ADJ WITH MICRO TERRA BEAD
-              450 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-                                         LABOR
-Operat.: H    HOME ASSEMBLY                Machine:          Routing: 40
-                                       Work center: M18
-       Tools: HOME ASSEMBLY
-Instructions: PULL BEAD & BUNDLE 50 PER BUNDLE / MARK ODD BUNDLE
-              $.02 PER EACH CORD
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
+ 11  10 CR28WAL         0513    WALMART CROAKIE HARDWOODS              22 CA  05/14/13_______ __________  _______
 
 
+ 12  11 CR29WAL         0513    WALMART CROAKIE MAX 4 CASE             23 CA  05/14/13_______ __________  _______
 
 
+ 13  12 TA5WAL          0513    WALMART TERRA MAX ROYAL CASE           13 CA  05/14/13_______ __________  _______
 
 
+ 14  13 TA9WAL          0513    WALMART TERRA MAX PEWTER CASE          17 CA  05/14/13_______ __________  _______
 
 
+ 15  14 TASCTE06WAL     0513    WALMART TITE END ADJ NAVY CASE         40 CA  05/14/13_______ __________  _______
 
 
+                                                                                               Continued:  3
 
 
 
+                                            ***** P I C K I N G  S L I P *****
 
+CROAKIES                                                                                   PPs-no: 00428099
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/14/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 3
+    S    WAL-MART OPTICAL DC 7054                                                        Order-no: 422903
+    H T  2525 ROHR ROAD, DOCK DOOR 3                                                       Ship-no WALM7054
+    I O  LOCKBOURNE OH 43137                                                          Charge-cust: 04440600
+    P    UNITED STATES                                                                    cust-no: 04440600
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Jenn Scarola
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 05/24/13                   Cust-po-no: 9403143423
+ Ship Via: UPS/CONSIGNEE              Total Weight: 0                          Department: 00049
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
 
+ 16  15 TASCTE05WAL     0513    WALMART TITE END ADJ ROYAL             22 CA  05/14/13_______ __________  _______
 
 
+ 17  16 TNSC9WAL        0513    WALMART TERRA SPEC NON  PEWTER         42 CA  05/14/13_______ __________  _______
 
 
+ 18  17 SUITM6WAL       0513    WALMART MICRO SUIT NAVY CASE            7 CA  05/14/13_______ __________  _______
 
 
-Page :          2
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405221 TE03                     500 10/30/12        0          1        1
-TERRA TITE ENDS RAW BLACK             10/30/12
+ 19  18 SUITM67WAL      0513    WALMART MICRO SUIT PINK CASE           12 CA  05/14/13_______ __________  _______
 
 
-Job Number:
+ 20  20 CR3WAL          0513    WALMART CROAKIE BLACK 3 PK             11 CA  05/14/13_______ __________  _______
 
 
 
-^PY^b^M^H03^T0200^BNB405221^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBTE03^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-TERRA CORD MICRO 3.2MM BLACK           1000.00 *         |       |         *
-0429     554060           FT      10           *         |       |         *
-                                               *=========|=======|=========*
-TERRA MICRO MOLDED BEAD BLACK              500 *         |       |         *
-0422     802446           EA      20           *         |       |         *
-                                               *=========|=======|=========*
-BASELL PRO-FAX PD 702 PLST 50#          0.0000 *         |       |         *
-0424     195083           PD      30           *         |       |         *
-                                               *=========|=======|=========*
-TERRA MAX RAW RUBBER PELLETS            0.0000 *         |       |         *
-0424     051492           PD      40           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: tc cuttr Routing: 10
-                                       Work center: t11
-       Tools: MOLDER/CUTTER
-Instructions: MOLD & CUT TITE END ADJ 24"LONG
-              300 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: 20       Routing: 20
-                                       Work center: T7
-       Tools: IPC MOLDER
-Instructions: OVER MOLD TITE END ADJ
-              400 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
-Page :          1                    cont :          2
 
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405221 TE03                     500 10/30/12        0          1        1
-TERRA TITE ENDS RAW BLACK             10/30/12
 
 
-Job Number:
 
 
 
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: 19       Routing: 30
-                                       Work center: T6
-       Tools: POWER BEADER MICRO BEADS
-Instructions: BEAD TITE END ADJ WITH MICRO TERRA BEAD
-              450 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-                                         LABOR
-Operat.: H    HOME ASSEMBLY                Machine:          Routing: 40
-                                       Work center: M18
-       Tools: HOME ASSEMBLY
-Instructions: PULL BEAD & BUNDLE 50 PER BUNDLE / MARK ODD BUNDLE
-              $.02 PER EACH CORD
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
@@ -947,122 +659,91 @@ Instructions: PULL BEAD & BUNDLE 50 PER BUNDLE / MARK ODD BUNDLE
 
 
 
+^PY^b^M^H03^T0001^BNB428100^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
 
+CROAKIES                                                                                   PPs-no: 00428100
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    CAITLIN HUTCHESON                                                               Order-no: 422905
+    H T  2605 OCEAN SHORE AVENUE                                                           Ship-no 70010400
+    I O  VIRGINIA BEACH VA 23451                                                      Charge-cust: 70010400
+    P    UNITED STATES                                                                    cust-no: 70010400
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Heidi Christman
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 23779
+ Ship Via: BEST-NO CHARGE             Total Weight: 0                          Department: 3point5
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+                                CAITLINHUTCHESON@GMAIL.COM
+                                7578184931
+                            ATTN: SHIPPING  PLEASE INCLUDE
+                            INVOICE WITH SHIPMENT. PLEASE
+                            FORWARD TRACKING # TO THE
+                            E-MAIL ADDRESS.
 
+  1   1 MISC-C          3770    MISCELLANEOUS CROAKIES                  1 EA  05/13/13_______ __________  _______
 
+                            TA3HT MISSING FM ORIGINAL
+                            ORDER#422176
 
 
 
 
 
 
-Page :          2
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405222 TELC                     500 10/30/12        0          1        1
-TITE END LITE CAMO                    10/30/12
 
 
-Job Number:
 
 
 
-^PY^b^M^H03^T0200^BNB405222^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBTELC^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-TERRA CORD 3.2MM NEW CAMO              1000.00 *         |       |         *
-0429     554056           FT      10           *         |       |         *
-                                               *=========|=======|=========*
-TERRA MICRO MOLDED BEAD BLACK              500 *         |       |         *
-0422     802446           EA      20           *         |       |         *
-                                               *=========|=======|=========*
-BASELL PRO-FAX PD 702 PLST 50#          0.0000 *         |       |         *
-0424     195083           PD      30           *         |       |         *
-                                               *=========|=======|=========*
-TERRA MAX RAW RUBBER PELLETS            0.0000 *         |       |         *
-0424     051492           PD      40           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: tc cuttr Routing: 10
-                                       Work center: t11
-       Tools: MOLDER/CUTTER
-Instructions: MOLD & CUT TITE END ADJ 24"LONG
-              300 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: 20       Routing: 20
-                                       Work center: T7
-       Tools: IPC MOLDER
-Instructions: OVER MOLD TITE END ADJ
-              400 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
-Page :          1                    cont :          2
 
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405222 TELC                     500 10/30/12        0          1        1
-TITE END LITE CAMO                    10/30/12
 
 
-Job Number:
 
 
 
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: 19       Routing: 30
-                                       Work center: T6
-       Tools: POWER BEADER MICRO BEADS
-Instructions: BEAD TITE END ADJ WITH MICRO TERRA BEAD
-              450 PER HOUR
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-                                         LABOR
-Operat.: H    HOME ASSEMBLY                Machine:          Routing: 40
-                                       Work center: M18
-       Tools: HOME ASSEMBLY
-Instructions: PULL BEAD & BUNDLE 50 PER BUNDLE / MARK ODD BUNDLE
-              $.02 PER EACH CORD
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
 
 
 
+^PY^b^M^H03^T0001^BNB428101^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
 
+CROAKIES                                                                                   PPs-no: 00428101
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    RICHARD DELK                                                                    Order-no: 422907
+    H T  11847 WEST 85TH PLACE                                                             Ship-no 95000000
+    I O  ARVADA CO 80005                                                              Charge-cust: 95000000
+    P    UNITED STATES                                                                    cust-no: 95000000
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Heidi Christman
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: DELKSAMPLES
+ Ship Via: UPS/GROUND                 Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
 
 
+                                                            HC
+
+  1   1 ROCKHT          0511    REFILL OPTICAL CARE KIT W/URT           3 EA  05/13/13_______ __________  _______
 
 
 
@@ -1076,66 +757,506 @@ Instructions: PULL BEAD & BUNDLE 50 PER BUNDLE / MARK ODD BUNDLE
 
 
 
-Page :          2
-End-of-Report.  Memo: Please forward printout to cheris
-   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
-Description                           Req/Beg  Instructions
-  405223 CR12COL                   50 11/12/12        0          1        1
-CRK COLLEGIATE LOGO PURPLE            10/30/12  FOLLETT HIGHER EDUCATION GROUP
-                                              UNA OVER LION HEAD
-                                              ORDER #411338
-Job Number:
 
 
 
-^PY^b^M^H03^T0200^BNB405223^G^*^PN
 
 
-^PY^b^M^H03^T0200^BNBCR12COL^G^*^PN
-                                      COMPONENTS
-Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
-    Serial/lot            Exp.date             *---------------------------*
-CROAKIE RAW PURPLE                          50 *         |       |         *
-0400     CR112            EA      10           *         |       |         *
-                                               *=========|=======|=========*
-CROAKIE ACTION HANG TAG SOLID               50 *         |       |         *
-0412     CB6              EA      20           *         |       |         *
-                                               *=========|=======|=========*
-POLY BAG 6" X 12"  1.5 MIL                   0 *         |       |         *
-0442     967850           EA      30           *         |       |         *
-                                               *=========|=======|=========*
-                                         LABOR
-Operat.: 1    GENERAL SHOP LABOR           Machine: 2        Routing: 10
-                                       Work center: S1
-       Tools: SILK SCREENING
-Instructions: PRINT FROM 1 TO 6 COLOR LOG COSTING SET AT 3 COLOR LOG
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-                                         LABOR
-Operat.: H    HOME ASSEMBLY                Machine:          Routing: 20
-                                       Work center: 2
-       Tools: HOME ASSEMBLY
-Instructions: STICKER FOR COLLEGIATE CORRECT COLOR
-              HANG TAG AND BAG 12 PER POLY BAG
-              PAY $.0375 PER CROAKIE
-              UPC #088989 240761
-                                  TIME-SHEETS
-* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
-* ........|....|........|.........|........|........|.............|...|.....*
-*         |    |        |         |        |        |             |   |     *
 
 
 
 
 
-Page :          1
-End-of-Report.  Memo: Please forward printout to cheris
+
+
+
+
+
+
+
+
+
+
+
+
+^PY^b^M^H03^T0001^BNB428102^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
+
+CROAKIES                                                                                   PPs-no: 00428102
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    WEST COAST SURF SHOP    C                                                       Order-no: 422909
+    H T  AKA:J F & M PARTNERS                                                              Ship-no 20013400
+    I O  1035 ESTERO BLVD                                                             Charge-cust: 20013400
+    P    FORT MYERS BEACH FL 33931                                                        cust-no: 20013400
+         UNITED STATES                                                                     Ord/BO: order
+                                                                                 Order Entered By: Kelly Nesselhuff
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 130513
+ Ship Via: UPS/GROUND                 Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+
+                                                           KN
+                            CANCEL B/O'S.  OK TO
+                            SUBSTITUTE COLORS.
+
+  1   6 ARCMYW16HT      0511    ARC CORD YELLOW MONO 16" HT             4 EA  05/13/13_______ __________  _______
+
+
+  2   7 ARCMCL16HT      0511    ARC CORD CLEAR MONO 16" HT              4 EA  05/13/13_______ __________  _______
+
+
+  3   8 ARCMBL16HT      0511    ARC CORD BLUE MONO 16" HT               4 EA  05/13/13_______ __________  _______
+
+
+  4   9 ARCS16HT        0511    ARC CORD SS CABLE 16" HT               12 EA  05/13/13_______ __________  _______
+
+
+  5  10 CR13HT          0511    CROAKIES BLACK EACH                     6 EA  05/13/13_______ __________  _______
+
+
+  6  12 SUITC3HT        0511    SUITER COTTON BLACK EACH                6 EA  05/13/13_______ __________  _______
+
+
+  7  13 ARCF3HT         0511    ARC FLOAT 4PK YELLOW 1.5"            6.00 PK  05/13/13_______ __________  _______
+
+
+  8  15 SUITPXLTDHT     0511    SUITER XL POLY TIE DYE MIX HT           6 EA  05/13/13_______ __________  _______
+
+
+  9  16 SUITPMOHT       0511    SUITER POLY MOSSY OAK MIX HT            6 EA  05/13/13_______ __________  _______
+
+
+ 10  17 SUITPXLMOHT     0511    SUITER XL POLY MOSS OAK MIX HT          6 EA  05/13/13_______ __________  _______
+
+
+                                                                                               Continued:  2
+
+
+
+                                            ***** P I C K I N G  S L I P *****
+
+CROAKIES                                                                                   PPs-no: 00428102
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 2
+    S    WEST COAST SURF SHOP    C                                                       Order-no: 422909
+    H T  AKA:J F & M PARTNERS                                                              Ship-no 20013400
+    I O  1035 ESTERO BLVD                                                             Charge-cust: 20013400
+    P    FORT MYERS BEACH FL 33931                                                        cust-no: 20013400
+         UNITED STATES                                                                     Ord/BO: order
+                                                                                 Order Entered By: Kelly Nesselhuff
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 130513
+ Ship Via: UPS/GROUND                 Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+ 11   1 TSE03AXHT       0512    TERRA SYSTEM ENDLESS BLK XL HT          6 EA  05/13/13_______ __________  _______
+
+
+ 12   2 TSE09AXHT       0512    TERRA SYSTEM ENDLESS PWT XL HT          6 EA  05/13/13_______ __________  _______
+
+
+ 13   3 TSABSAAXHT      0512    TERRA SYSTEM COMBO BASIC R/XL           6 EA  05/13/13_______ __________  _______
+
+
+ 14   4 TSABSAXAXXHT    0512    TERRA SYSTEM COMBO BASC XL/XXL          6 EA  05/13/13_______ __________  _______
+
+
+ 15   5 TSABSAXEXHT     0512    TERRA SYSTEM COMBO BASIC XL/XL          6 EA  05/13/13_______ __________  _______
+
+
+ 16  11 CRCAHT          0512    CROAKIE CAMO MIX HT                     6 EA  05/13/13_______ __________  _______
+
+
+ 17  14 SUITPTDHT       0512    SUIT POLY MIX TIE DYE                   6 EA  05/13/13_______ __________  _______
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^PY^b^M^H03^T0001^BNB428103^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
+
+CROAKIES                                                                                   PPs-no: 00428103
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    GREAT FEATHERS          C                                                       Order-no: 422910
+    H T  14824 YORK RD                                                                     Ship-no 05505900
+    I O  SPARKS MD 21152                                                              Charge-cust: 05505900
+    P    UNITED STATES                                                                    cust-no: 05505900
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Heidi Christman
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 130513
+ Ship Via: UPS/GROUND                 Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+
+                                                            HC
+
+  1  14 LANSC5F1920     0510    LAN SUB FF BROOK BLK/OLV 1"SVL          1 EA  05/13/13_______ __________  _______
+
+
+  2   1 ARCBE16HT       0511    ARC ENDLESS BLACK 16" HT               24 EA  05/13/13_______ __________  _______
+
+
+  3  10 ARCB16HT        0511    ARC CORD BLACK CABLE 16" HT            24 EA  05/13/13_______ __________  _______
+
+
+  4  11 ARCMYW16HT      0511    ARC CORD YELLOW MONO 16" HT             3 EA  05/13/13_______ __________  _______
+
+
+  5  12 ROCKHT          0511    REFILL OPTICAL CARE KIT W/URT           3 EA  05/13/13_______ __________  _______
+
+
+  6  13 TASCPRHT        0511    TERRA SPEC ADJ PRINT MIX EACH           1 EA  05/13/13_______ __________  _______
+
+
+  7   2 SUITP251HT      0512    SUIT POLY ADMAD RAINBOW FS HT           2 EA  05/13/13_______ __________  _______
+
+
+  8   3 SUITP252HT      0512    SUIT POLY ADMAD BROOK FSHT              2 EA  05/13/13_______ __________  _______
+
+
+  9   4 SUITP89HT       0512    SUITER POLY BROOK FISHSKIN              2 EA  05/13/13_______ __________  _______
+
+
+ 10   5 SUITP90HT       0512    SUITER POLY RAINBOW FISHSKIN            2 EA  05/13/13_______ __________  _______
+
+
+ 11   6 SUITP91HT       0512    SUITER POLY BROWN FISHSKIN              2 EA  05/13/13_______ __________  _______
+
+                                                                                               Continued:  2
+
+
+
+                                            ***** P I C K I N G  S L I P *****
+
+CROAKIES                                                                                   PPs-no: 00428103
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 2
+    S    GREAT FEATHERS          C                                                       Order-no: 422910
+    H T  14824 YORK RD                                                                     Ship-no 05505900
+    I O  SPARKS MD 21152                                                              Charge-cust: 05505900
+    P    UNITED STATES                                                                    cust-no: 05505900
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Heidi Christman
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 130513
+ Ship Via: UPS/GROUND                 Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+ 12   7 SUITP71HT       0512    SUIT CAMO ADVANTAGE MAX-4 HD            2 EA  05/13/13_______ __________  _______
+
+
+ 13   8 SUITP70HT       0512    SUITER CAMO REALTREE HARDWOODS          2 EA  05/13/13_______ __________  _______
+
+
+ 14   9 SUITP93HT       0512    SUITER POLY MOSS OAK OBSESSION          2 EA  05/13/13_______ __________  _______
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^PY^b^M^H03^T0001^BNB428104^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
+
+CROAKIES                                                                                   PPs-no: 00428104
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    H W DAVIS CO            1                                                       Order-no: 422911
+    H T  152 ST GEORGE ST                                                                  Ship-no 05455600
+    I O  SAINT AUGUSTINE FL 32084                                                     Charge-cust: 05455600
+    P    UNITED STATES                                                                    cust-no: 05455600
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Kelly Nesselhuff
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 130513
+ Ship Via: UPS/GR/FRT CHGD            Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+                                PA AMEX 5/13
+                                                           KN
+                            ATTN SHIPPING: PLEASE SHIP
+                            AVAILABLE PRODUCT TODAY (5/13)
+                            B/O OK.
+
+  1   8 SHIP                    SHIPPING AND HANDLING CHARGE            1 EA  05/13/13_______ __________  _______
+
+
+  2   2 ARCBE18HT       0511    ARC ENDLESS BLACK 18" HT               24 EA  05/13/13_______ __________  _______
+
+
+  3   3 MXXEND3HT       0511    ARC XXL END BLK PK HT               24.00 PK  05/13/13_______ __________  _______
+
+
+  4   4 ARCF3HT         0511    ARC FLOAT 4PK YELLOW 1.5"           24.00 PK  05/13/13_______ __________  _______
+
+
+  5   1 TSL03EXHT       0512    TERRA SYSTM LONG BLACK TE XLHT         24 EA  05/13/13_______ __________  _______
+
+
+  6   5 TSEL03EXHT      0512    TERRA SYS ENDLS LONG BLK TE XL         24 EA  05/13/13_______ __________  _______
+
+
+  7   7 FKTA11HT        0512    FLT KEY RING TERRA HT                  12 EA  05/13/13_______ __________  _______
+
+
+  8   6 TEEMX03HT       0513    TITE END MAX ENDLESS BLACK HT          24 EA  05/13/13_______ __________  _______
+
+
+
+
+
+
+
+
+
+
+
+^PY^b^M^H03^T0001^BNB428105^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
+
+CROAKIES                                                                                   PPs-no: 00428105
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    MONROE FAMILY EYECARE   C                                                       Order-no: 422912
+    H T  91 LAKES ROAD                                                                     Ship-no 05008400
+    I O  MONROE NY 10950                                                              Charge-cust: 05008400
+    P    UNITED STATES                                                                    cust-no: 05008400
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Heidi Christman
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 130513
+ Ship Via: UPS/GROUND                 Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+
+                                                            HC
+
+  1   1 TASCTEPRHT      0511    TERRA SPC TITE ADJ PRINT EACH           6 EA  05/13/13_______ __________  _______
+
+
+  2  16 SCBL1BSHT       0511    SC LEATHER BRAIDED SPEC END MX          4 EA  05/13/13_______ __________  _______
+
+
+  3   6 SUITCK3HT       0512    SUITER COTTON KID BLACK HT              2 EA  05/13/13_______ __________  _______
+
+
+  4   7 SUITCK5HT       0512    SUITER COTTON KID ROYAL HT              2 EA  05/13/13_______ __________  _______
+
+
+  5   8 SUITCK44HT      0512    SUIT COT KID CHARCOAL HT                2 EA  05/13/13_______ __________  _______
+
+
+  6   9 WC1FHT          0512    WC RAINFOREST SPEC END MIX              4 EA  05/13/13_______ __________  _______
+
+
+  7  12 WC1WOOD09HT     0512    WRLD CRD WOODLAND #09 SPEC END          1 EA  05/13/13_______ __________  _______
+
+
+  8  13 WCFLHT          0512    WORLD CORD FLORAL MIX EACH              3 EA  05/13/13_______ __________  _______
+
+
+  9  14 WC1STONEHT      0512    WORLD CORD STONE SPEC END MIX           3 EA  05/13/13_______ __________  _______
+
+
+ 10  15 WC1JSHT         0512    WC JAPANESE SPRK SPEC END MIX           6 EA  05/13/13_______ __________  _______
+
+
+ 11   2 TEMX03HT        0513    TITE END MAX BLACK HT                   2 EA  05/13/13_______ __________  _______
+
+                                                                                               Continued:  2
+
+
+
+                                            ***** P I C K I N G  S L I P *****
+
+CROAKIES                                                                                   PPs-no: 00428105
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 2
+    S    MONROE FAMILY EYECARE   C                                                       Order-no: 422912
+    H T  91 LAKES ROAD                                                                     Ship-no 05008400
+    I O  MONROE NY 10950                                                              Charge-cust: 05008400
+    P    UNITED STATES                                                                    cust-no: 05008400
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Heidi Christman
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 130513
+ Ship Via: UPS/GROUND                 Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+ 12   3 TEMX06HT        0513    TITE END MAX NAVY HT                    2 EA  05/13/13_______ __________  _______
+
+
+ 13   4 TEMX14HT        0513    TITE END MAX HUNTER GREEN HT            2 EA  05/13/13_______ __________  _______
+
+
+ 14   5 TEMX04HT        0513    TITE END MAX BROWN HT                   2 EA  05/13/13_______ __________  _______
+
+
+ 15  10 WC1WOOD01HT     0513    WRLD CRD WOODLAND #01 SPEC END          1 EA  05/13/13_______ __________  _______
+
+
+ 16  11 WC1WOOD05HT     0513    WRLD CRD WOODLAND #05 SPEC END          1 EA  05/13/13_______ __________  _______
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^PY^b^M^H03^T0001^BNB428106^G^*^PN
+                                            ***** P I C K I N G  S L I P *****
+
+CROAKIES                                                                                   PPs-no: 00428106
+88 LIFE-LINK WAY                                                                         PPS Date: 05/13/13
+                                                                                         REQ Date: 05/13/13
+BOZEMAN, MT 59718                                                                            Type: A
+                                                                                             Page: 1
+    S    SIA OPTICAL LLC         C                                                       Order-no: 422913
+    H T  311 MAIN ST                                                                       Ship-no 05532800
+    I O  FALMOUTH MA 02540                                                            Charge-cust: 05532800
+    P    UNITED STATES                                                                    cust-no: 05532800
+                                                                                           Ord/BO: order
+                                                                                 Order Entered By: Kelly Nesselhuff
+__________________________________________________________________________________________________________________
+Warehouse: 1                           Cancel-date: 12/31/49                   Cust-po-no: 130513
+ Ship Via: BEST-NO CHARGE             Total Weight: 0                          Department:
+==================================================================================================================
+PLn Oln Item#           Bin     Description                          Qty UOM Prom-dt  Shipped Qty-picked  Initials
+==================================================================================================================
+
+                                FREE PROD NOT SHIPPED WITH CO
+                                421830                      KN
+
+  1   1 CR1BSHT         0511    CROAKIE BASIC MIX EACH                 12 EA  05/13/13_______ __________  _______
+
+                            THIS PRODUCT SHOULD'VE BEEN
+                            FREE WITH ORDER 421830
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
