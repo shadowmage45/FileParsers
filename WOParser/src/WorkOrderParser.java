@@ -7,35 +7,53 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.nio.file.StandardCopyOption;
 import java.util.Calendar;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Scanner;
 
 
-public class FileParseTest 
+public class WorkOrderParser 
 {
 
-int freq;
-String path;
+private int freq;
+private String path;
 
+private static WorkOrderParser instance;
+
+public static void main(String... aArgs)
+  {
+  instance = new WorkOrderParser();
+  if(aArgs==null || aArgs.length==0)
+    {
+    System.out.println("No arguments detected for print program.");
+    System.out.println("Running in static mode (static set start params)");
+    instance.setupMonitor(2, "//192.168.17.107/Print_WO/");      
+    }
+  else if(aArgs.length==2)
+    {
+    instance.setupMonitor(Integer.valueOf(aArgs[0]), aArgs[1]);
+    }
+  else
+    {
+    System.out.println("The program must be launched with 0 arguments (static setup), or two arguments (frequency, path_to_monitor)");
+    }
+  }
 
 /**
  * infinite directory monitor loop
  * @param freq
  * @param path
  */
-public void setupMonitor(int freq, String path)
+private void setupMonitor(int freq, String path)
   {
-  System.out.println("seting up directory monitor");
+  File dir = new File(path);
+  System.out.println("Seting up directory monitor for: "+dir.getAbsolutePath());
   while(true)
     {
     try
       {
-      Thread.sleep(freq*1000);
+      Thread.sleep(freq * 1000);
       //this.wait(freq*1000);
       } 
     catch (InterruptedException e)
@@ -44,7 +62,6 @@ public void setupMonitor(int freq, String path)
       System.out.println("interrupted Sleep!!!");
       //break;
       }
-    File dir = new File(path);
     File [] files = dir.listFiles();
     if(files==null)
       {
@@ -63,13 +80,11 @@ public void setupMonitor(int freq, String path)
         continue;
         }
       
-      System.out.println("Processing successful.");
-      
+      System.out.println("Processing successful.");      
       
       try
         {
         System.out.println("Attempting to print: "+file.getName());
-        //Runtime.getRuntime().exec("cmd /c wordpad.exe /p output.rtf");
         Runtime.getRuntime().exec("cmd /c auto-print.bat "+file.getName());
         System.out.println("Sucessfully sent to printer.");
         System.out.println("Sleeping to wait for print job to clear.");
@@ -90,14 +105,14 @@ public void setupMonitor(int freq, String path)
       
       
       System.out.println("Copying: "+file.getName()+" to /archive");
-      copyFileTo(file, file.getParent()+"/archive/"+getFileTS());
+      copyFileTo(file, "archive", getFileTS());
       
       /**
        * delete the origin file, since we have already copied it into archive
        */
       try
         {
-        System.out.println("Cleaning up:  Attempting to delete: "+file.getPath());
+        System.out.println("Cleaning up:  Attempting to delete: "+file.getAbsolutePath());
         Files.delete(file.toPath());
         System.out.println("File deleted, resuming directory monitoring.");
         } 
@@ -109,20 +124,24 @@ public void setupMonitor(int freq, String path)
     }
   }
 
-public String getFileTS()
+private String getFileTS()
   {
   Calendar cal = Calendar.getInstance();
-  return cal.get(cal.MONTH)+"-"+cal.get(cal.DAY_OF_MONTH)+"-"+cal.get(cal.YEAR)+ "--"+cal.get(cal.HOUR_OF_DAY)+"-"+cal.get(cal.MINUTE)+"-"+cal.get(cal.SECOND);
+  return cal.get(Calendar.MONTH)+"-"+cal.get(Calendar.DAY_OF_MONTH)+"-"+cal.get(Calendar.YEAR)+ "--"+cal.get(Calendar.HOUR_OF_DAY)+"-"+cal.get(Calendar.MINUTE)+"-"+cal.get(Calendar.SECOND);
   }
 
-public void copyFileTo(File file, String destination)
+private void copyFileTo(File file, String path, String name)
   {
+  File out = new File(path);
+  out.mkdirs();
+  File outFile = new File(path, name);  
+  
   InputStream reader =null ;
   OutputStream output=null;
   try
     {
     reader = new FileInputStream(file);
-    output = new FileOutputStream(new File(destination));
+    output = new FileOutputStream(outFile);
     byte[] readBuffer = new byte[1024];
     int length;
     while((length = reader.read(readBuffer))>0)
@@ -143,7 +162,7 @@ public void copyFileTo(File file, String destination)
   
   }
 
-public boolean doParseTest(String name)
+private boolean doParseTest(String name)
   {
   /**
    * A list to temporarily store lines in for parsing
