@@ -1,0 +1,1141 @@
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405209 CRCUS                    132 11/15/12        0          1        1
+CROAKIE CUSTOM EA                     10/30/12  PERLIS CLOTHING
+                                              CRAWFISH/PERLIS.COM/CRAWFISH
+                                              ORDER #411269
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405209^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBCRCUS^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+CROAKIE RAW BLACK EA                        48 *         |       |         *
+0400     CR13             EA      10           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine:          Routing: 10
+                                       Work center: S1
+       Tools: SCREENING / SETUP
+Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
+              PRINT PER HOUR WAS 175EA AS OF 10/23/08 TODD R
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+CROAKIE RAW BONNY BLUE EACH                 60 *         |       |         *
+0400     CR117            EA      20           *         |       |         *
+                                               *=========|=======|=========*
+CROAKIE RAW NAVY EA                         24 *         |       |         *
+0400     CR16             EA      30           *         |       |         *
+                                               *=========|=======|=========*
+CROAKIE ACTION HANG TAG SOLID              132 *         |       |         *
+0412     CB6              EA      40           *         |       |         *
+                                               *=========|=======|=========*
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405210 CRCUS                   2500 11/20/12        0          1        1
+CROAKIE CUSTOM EA                     10/30/12  KENDALL PROMOTIONS INC
+                                              IWP THE PATIENT ADVOCATE
+                                              PHARMACY
+Job Number:                                   ORDER #411323
+
+
+
+^PY^b^M^H03^T0200^BNB405210^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBCRCUS^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+CROAKIE RAW ROYAL EA                      2500 *         |       |         *
+0400     CR15             EA      10           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine:          Routing: 10
+                                       Work center: S1
+       Tools: SCREENING / SETUP
+Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
+              PRINT PER HOUR WAS 175EA AS OF 10/23/08 TODD R
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405211 TA5WAL                     2 10/30/12        0          1        1
+WALMART TERRA MAX ROYAL CASE          10/30/12
+
+
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405211^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBTA5WAL^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+TERRA MAX SOLID ROYAL EACH                  72 *         |       |         *
+0416     TA05             EA      10           *         |       |         *
+                                               *=========|=======|=========*
+TERRA CORD ADJ MAX HANG TAG                 72 *         |       |         *
+0426     176443           EA      20           *         |       |         *
+                                               *=========|=======|=========*
+POLY BAG 7" X 15" 1.5MIL                     0 *         |       |         *
+0442     920410           EA      30           *         |       |         *
+                                               *=========|=======|=========*
+WALMART BOX RAW  12 X 6 X 4                  2 *         |       |         *
+0413     003000           EA      40           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 10
+                                       Work center: P11
+       Tools:
+Instructions: STICKER FOR WALMART RYL TERRA CORD
+              UPC 000 88989 21882 1
+              PACK 3 PER BAG 12 3PKS PER BOX
+              MARK ODD BAG
+              CAVER BAR CODE
+              BAG STICKER
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405212 TASCTE05WAL                4 10/30/12        0          1        1
+WALMART TITE END ADJ ROYAL            10/30/12
+
+
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405212^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBTASCTE05WAL^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+TITE END RAW ROYAL                         144 *         |       |         *
+0403     TE05             EA      10           *         |       |         *
+                                               *=========|=======|=========*
+TITE END SM SPINE HANGTAG EA               144 *         |       |         *
+0426     176442           EA      20           *         |       |         *
+                                               *=========|=======|=========*
+POLY BAG 7" X 15" 1.5MIL                     0 *         |       |         *
+0442     920410           EA      30           *         |       |         *
+                                               *=========|=======|=========*
+WALMART BOX RAW  12 X 6 X 4                  4 *         |       |         *
+0413     003000           EA      40           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 10
+                                       Work center: P99
+       Tools:
+Instructions:
+              STICKER FOR WALMART RYL TITE END ADJ
+              UPC 088989229988
+              PRICE $3.83 PER 3 PK
+              PACK IN 3PKS / THEN PUT 12 3 PKS PER BOX
+              PAYS$.065 EACH OR$.1975 PER 3 PACK
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405213 CULNB3A                  300 11/09/12        0          1        1
+CUST NEO 3/4 MOD BUCKLE O-RING        10/30/12  BUSINESS INNOVATIONS
+                                              NASA LOGO/AMES RESEARCH CENTER
+                                              ORDER #411267
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405213^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBCULNB3A^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+LANYARD RAW EACH NAVY                      300 *         |       |         *
+0413     034502           EA      10           *         |       |         *
+                                               *=========|=======|=========*
+LANYARD CLAM 5/8" BUCKLE                   300 *         |       |         *
+0476     034548           EA      20           *         |       |         *
+                                               *=========|=======|=========*
+LANYARD CLAM O RING PIN HOLES              300 *         |       |         *
+0476     034547           EA      30           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: 2        Routing: 10
+                                       Work center: S1
+       Tools:
+Instructions: PRINT ONE COLOR LOGO
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 20
+                                       Work center: 2
+       Tools:
+Instructions: ASSEMBLE MODULAR SYSTEM AND ATTACH END PIECE  $.075 EACH
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405214 CB02                     300 11/09/12        0          1        1
+LANYARD BREAK-A-WAY 3/4"              10/30/12  BUSINESS INNOVATIONS
+                                              (breakaway)
+                                              ORDER #411267
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405214^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBCB02^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+BREAKAWAY MALE  3/4  #7633                 300 *         |       |         *
+0413     034532           EA      10           *         |       |         *
+                                               *=========|=======|=========*
+BREAKAWAY FEMALE 3/4  #7634                300 *         |       |         *
+0413     034533           EA      20           *         |       |         *
+                                               *=========|=======|=========*
+BREAKAWAY LID  3/4  #7635                  600 *         |       |         *
+0413     034534           EA      30           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 10
+                                       Work center: 2
+       Tools:
+Instructions: CUT LANYARD IN HALF
+              ATTACH BREAK-AWAY PARTS
+              PRICE $.11
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405215 TASCTE06WAL               11 10/30/12        0          1        1
+WALMART TITE END ADJ NAVY CASE        10/30/12
+
+
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405215^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBTASCTE06WAL^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+TERRA TITE ENDS RAW NAVY                   396 *         |       |         *
+0403     TE06             EA      10           *         |       |         *
+                                               *=========|=======|=========*
+TITE END SM SPINE HANGTAG EA               396 *         |       |         *
+0426     176442           EA      20           *         |       |         *
+                                               *=========|=======|=========*
+POLY BAG 7" X 15" 1.5MIL                     0 *         |       |         *
+0442     920410           EA      30           *         |       |         *
+                                               *=========|=======|=========*
+WALMART BOX RAW  12 X 6 X 4                 11 *         |       |         *
+0413     003000           EA      40           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 10
+                                       Work center: P99
+       Tools:
+Instructions:
+              STICKER FOR WALMART NVY TITE END ADJ
+              UPC 088989226154
+              PRICE $3.83 PER 3 PK
+              PACK IN 3PKS / THEN PUT 12 3 PKS PER BOX
+              PAYS$.065 EACH OR$.1975 PER 3 PACK
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405216 CRCUS                    100 11/09/12        0          1        1
+CROAKIE CUSTOM EA                     10/30/12  DUFFY PROMOTIONS
+                                              MCCALLIE TAILGATING SOCIETY
+                                              ORDER #410803
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405216^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBCRCUS^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+CROAKIE RAW ROYAL EA                       100 *         |       |         *
+0400     CR15             EA      10           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine:          Routing: 10
+                                       Work center: S1
+       Tools: SCREENING / SETUP
+Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
+              PRINT PER HOUR WAS 175EA AS OF 10/23/08 TODD R
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405217 CRK5WAL                    3 10/30/12        0          1        1
+WALMART CROAKIES KID ROYAL CA         10/30/12
+
+
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405217^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBCRK5WAL^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+CROAKIE RAW KID ROYAL EA                   108 *         |       |         *
+0400     CR1K5            EA      10           *         |       |         *
+                                               *=========|=======|=========*
+CROAKIE HANG TAG KIDS SOLID                108 *         |       |         *
+0426     301555           EA      20           *         |       |         *
+                                               *=========|=======|=========*
+WALMART BOX RAW  12 X 6 X 4                  3 *         |       |         *
+0413     003000           EA      30           *         |       |         *
+                                               *=========|=======|=========*
+POLY BAG 4X18  1.5 MIL                       0 *         |       |         *
+0442     030791           EA      40           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 10
+                                       Work center: P1
+       Tools:
+Instructions:
+              STICKER FOR WALMART ROYAL KID CROAKIES
+              UPC 088989220619  PACK IN 3PKS / MARK ODD BAG PUT 12 3PKS
+              PER BOX COVER BAR CODE
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405218 CRCUS                    100 11/09/12        0          1        1
+CROAKIE CUSTOM EA                     10/30/12  THREDS INC
+                                              MERCURY RACING
+                                              ORDER #411333
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405218^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBCRCUS^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+CROAKIE RAW BLACK EA                       100 *         |       |         *
+0400     CR13             EA      10           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine:          Routing: 10
+                                       Work center: S1
+       Tools: SCREENING / SETUP
+Instructions: PRINT ONE COLOR AND COUNT PLUS SETUP
+              PRINT PER HOUR WAS 175EA AS OF 10/23/08 TODD R
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405219 TE03                     500 10/30/12        0          1        1
+TERRA TITE ENDS RAW BLACK             10/30/12
+
+
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405219^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBTE03^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+TERRA CORD MICRO 3.2MM BLACK           1000.00 *         |       |         *
+0429     554060           FT      10           *         |       |         *
+                                               *=========|=======|=========*
+TERRA MICRO MOLDED BEAD BLACK              500 *         |       |         *
+0422     802446           EA      20           *         |       |         *
+                                               *=========|=======|=========*
+BASELL PRO-FAX PD 702 PLST 50#          0.0000 *         |       |         *
+0424     195083           PD      30           *         |       |         *
+                                               *=========|=======|=========*
+TERRA MAX RAW RUBBER PELLETS            0.0000 *         |       |         *
+0424     051492           PD      40           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: tc cuttr Routing: 10
+                                       Work center: t11
+       Tools: MOLDER/CUTTER
+Instructions: MOLD & CUT TITE END ADJ 24"LONG
+              300 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: 20       Routing: 20
+                                       Work center: T7
+       Tools: IPC MOLDER
+Instructions: OVER MOLD TITE END ADJ
+              400 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+Page :          1                    cont :          2
+
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405219 TE03                     500 10/30/12        0          1        1
+TERRA TITE ENDS RAW BLACK             10/30/12
+
+
+Job Number:
+
+
+
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: 19       Routing: 30
+                                       Work center: T6
+       Tools: POWER BEADER MICRO BEADS
+Instructions: BEAD TITE END ADJ WITH MICRO TERRA BEAD
+              450 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 40
+                                       Work center: M18
+       Tools: HOME ASSEMBLY
+Instructions: PULL BEAD & BUNDLE 50 PER BUNDLE / MARK ODD BUNDLE
+              $.02 PER EACH CORD
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          2
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405220 TE03                     500 10/30/12        0          1        1
+TERRA TITE ENDS RAW BLACK             10/30/12
+
+
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405220^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBTE03^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+TERRA CORD MICRO 3.2MM BLACK           1000.00 *         |       |         *
+0429     554060           FT      10           *         |       |         *
+                                               *=========|=======|=========*
+TERRA MICRO MOLDED BEAD BLACK              500 *         |       |         *
+0422     802446           EA      20           *         |       |         *
+                                               *=========|=======|=========*
+BASELL PRO-FAX PD 702 PLST 50#          0.0000 *         |       |         *
+0424     195083           PD      30           *         |       |         *
+                                               *=========|=======|=========*
+TERRA MAX RAW RUBBER PELLETS            0.0000 *         |       |         *
+0424     051492           PD      40           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: tc cuttr Routing: 10
+                                       Work center: t11
+       Tools: MOLDER/CUTTER
+Instructions: MOLD & CUT TITE END ADJ 24"LONG
+              300 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: 20       Routing: 20
+                                       Work center: T7
+       Tools: IPC MOLDER
+Instructions: OVER MOLD TITE END ADJ
+              400 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+Page :          1                    cont :          2
+
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405220 TE03                     500 10/30/12        0          1        1
+TERRA TITE ENDS RAW BLACK             10/30/12
+
+
+Job Number:
+
+
+
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: 19       Routing: 30
+                                       Work center: T6
+       Tools: POWER BEADER MICRO BEADS
+Instructions: BEAD TITE END ADJ WITH MICRO TERRA BEAD
+              450 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 40
+                                       Work center: M18
+       Tools: HOME ASSEMBLY
+Instructions: PULL BEAD & BUNDLE 50 PER BUNDLE / MARK ODD BUNDLE
+              $.02 PER EACH CORD
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          2
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405221 TE03                     500 10/30/12        0          1        1
+TERRA TITE ENDS RAW BLACK             10/30/12
+
+
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405221^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBTE03^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+TERRA CORD MICRO 3.2MM BLACK           1000.00 *         |       |         *
+0429     554060           FT      10           *         |       |         *
+                                               *=========|=======|=========*
+TERRA MICRO MOLDED BEAD BLACK              500 *         |       |         *
+0422     802446           EA      20           *         |       |         *
+                                               *=========|=======|=========*
+BASELL PRO-FAX PD 702 PLST 50#          0.0000 *         |       |         *
+0424     195083           PD      30           *         |       |         *
+                                               *=========|=======|=========*
+TERRA MAX RAW RUBBER PELLETS            0.0000 *         |       |         *
+0424     051492           PD      40           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: tc cuttr Routing: 10
+                                       Work center: t11
+       Tools: MOLDER/CUTTER
+Instructions: MOLD & CUT TITE END ADJ 24"LONG
+              300 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: 20       Routing: 20
+                                       Work center: T7
+       Tools: IPC MOLDER
+Instructions: OVER MOLD TITE END ADJ
+              400 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+Page :          1                    cont :          2
+
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405221 TE03                     500 10/30/12        0          1        1
+TERRA TITE ENDS RAW BLACK             10/30/12
+
+
+Job Number:
+
+
+
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: 19       Routing: 30
+                                       Work center: T6
+       Tools: POWER BEADER MICRO BEADS
+Instructions: BEAD TITE END ADJ WITH MICRO TERRA BEAD
+              450 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 40
+                                       Work center: M18
+       Tools: HOME ASSEMBLY
+Instructions: PULL BEAD & BUNDLE 50 PER BUNDLE / MARK ODD BUNDLE
+              $.02 PER EACH CORD
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          2
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405222 TELC                     500 10/30/12        0          1        1
+TITE END LITE CAMO                    10/30/12
+
+
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405222^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBTELC^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+TERRA CORD 3.2MM NEW CAMO              1000.00 *         |       |         *
+0429     554056           FT      10           *         |       |         *
+                                               *=========|=======|=========*
+TERRA MICRO MOLDED BEAD BLACK              500 *         |       |         *
+0422     802446           EA      20           *         |       |         *
+                                               *=========|=======|=========*
+BASELL PRO-FAX PD 702 PLST 50#          0.0000 *         |       |         *
+0424     195083           PD      30           *         |       |         *
+                                               *=========|=======|=========*
+TERRA MAX RAW RUBBER PELLETS            0.0000 *         |       |         *
+0424     051492           PD      40           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: tc cuttr Routing: 10
+                                       Work center: t11
+       Tools: MOLDER/CUTTER
+Instructions: MOLD & CUT TITE END ADJ 24"LONG
+              300 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: 20       Routing: 20
+                                       Work center: T7
+       Tools: IPC MOLDER
+Instructions: OVER MOLD TITE END ADJ
+              400 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+Page :          1                    cont :          2
+
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405222 TELC                     500 10/30/12        0          1        1
+TITE END LITE CAMO                    10/30/12
+
+
+Job Number:
+
+
+
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: 19       Routing: 30
+                                       Work center: T6
+       Tools: POWER BEADER MICRO BEADS
+Instructions: BEAD TITE END ADJ WITH MICRO TERRA BEAD
+              450 PER HOUR
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 40
+                                       Work center: M18
+       Tools: HOME ASSEMBLY
+Instructions: PULL BEAD & BUNDLE 50 PER BUNDLE / MARK ODD BUNDLE
+              $.02 PER EACH CORD
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page :          2
+End-of-Report.  Memo: Please forward printout to cheris
+   Wo-no/Item-no            Qty start Dates    Order-no#         FGoods/RawMat
+Description                           Req/Beg  Instructions
+  405223 CR12COL                   50 11/12/12        0          1        1
+CRK COLLEGIATE LOGO PURPLE            10/30/12  FOLLETT HIGHER EDUCATION GROUP
+                                              UNA OVER LION HEAD
+                                              ORDER #411338
+Job Number:
+
+
+
+^PY^b^M^H03^T0200^BNB405223^G^*^PN
+
+
+^PY^b^M^H03^T0200^BNBCR12COL^G^*^PN
+                                      COMPONENTS
+Bin Loc. Component        UOM    Seq   Qty-Std * Quantity| Waste |Initials *
+    Serial/lot            Exp.date             *---------------------------*
+CROAKIE RAW PURPLE                          50 *         |       |         *
+0400     CR112            EA      10           *         |       |         *
+                                               *=========|=======|=========*
+CROAKIE ACTION HANG TAG SOLID               50 *         |       |         *
+0412     CB6              EA      20           *         |       |         *
+                                               *=========|=======|=========*
+POLY BAG 6" X 12"  1.5 MIL                   0 *         |       |         *
+0442     967850           EA      30           *         |       |         *
+                                               *=========|=======|=========*
+                                         LABOR
+Operat.: 1    GENERAL SHOP LABOR           Machine: 2        Routing: 10
+                                       Work center: S1
+       Tools: SILK SCREENING
+Instructions: PRINT FROM 1 TO 6 COLOR LOG COSTING SET AT 3 COLOR LOG
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+                                         LABOR
+Operat.: H    HOME ASSEMBLY                Machine:          Routing: 20
+                                       Work center: 2
+       Tools: HOME ASSEMBLY
+Instructions: STICKER FOR COLLEGIATE CORRECT COLOR
+              HANG TAG AND BAG 12 PER POLY BAG
+              PAY $.0375 PER CROAKIE
+              UPC #088989 240761
+                                  TIME-SHEETS
+* EMPL-NO |ENT.| DATE   |QUANTITY |STARTING| ENDING |REMARKS/INIT.|ROD|SHIFT*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+* ........|....|........|.........|........|........|.............|...|.....*
+*         |    |        |         |        |        |             |   |     *
+
+
+
+
+
+Page :          1
+End-of-Report.  Memo: Please forward printout to cheris
+
