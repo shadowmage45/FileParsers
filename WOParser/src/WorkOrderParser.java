@@ -171,7 +171,8 @@ private void printFiles()
       System.out.println("Printing file: "+f.getAbsolutePath());
       try
         {
-        Runtime.getRuntime().exec("cmd /c auto-print.bat "+f.getName());
+        printFile(f);
+//        Runtime.getRuntime().exec("cmd /c auto-print.bat "+f.getName());
         }
       catch (IOException e)
         {
@@ -201,6 +202,7 @@ private void deletePrintedFiles()
       System.out.println("Deleting "+f.getAbsolutePath()+" from to-print cache.");
       try
         {
+        Files.copy(f.toPath(), new File(archiveFolder, f.getName()).toPath(), StandardCopyOption.REPLACE_EXISTING);
         Files.delete(f.toPath());
         }
       catch (IOException e)
@@ -212,6 +214,21 @@ private void deletePrintedFiles()
       }
     }
   }
+
+private void printFile(File f) throws IOException
+  {
+  ProcessBuilder pb = new ProcessBuilder("C:\\Program Files\\Windows NT\\Accessories\\wordpad.exe", "/p", outputFolder.getAbsolutePath()+"\\"+f.getName());  
+  Process p = pb.start();
+  try
+    {
+    p.waitFor();
+    }
+  catch (InterruptedException e)
+    {
+    e.printStackTrace();
+    }
+  }
+
 
 ///**
 // * infinite directory monitor loop
