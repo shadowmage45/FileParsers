@@ -1,0 +1,6 @@
+Nov 20, 2014 10:55:56 AM WorkOrderParser log
+SEVERE: Setting up Work Order parsing to monitor directory: c:\testWoParse\temp
+Nov 20, 2014 10:55:56 AM WorkOrderParser log
+SEVERE: Beginning directory monitoring.
+Nov 20, 2014 10:55:56 AM WorkOrderParser log
+SEVERE: Redirecting output to logger, please check log.txt for output.

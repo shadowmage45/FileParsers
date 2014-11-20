@@ -1,0 +1,80 @@
+Nov 20, 2014 10:50:34 AM WorkOrderParser log
+SEVERE: Setting up Work Order parsing to monitor directory: c:\testWoParse\temp
+Nov 20, 2014 10:50:34 AM WorkOrderParser log
+SEVERE: Beginning directory monitoring.
+Nov 20, 2014 10:50:34 AM WorkOrderParser log
+SEVERE: Redirecting output to logger, please check log.txt for output.
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Copying c:\testWoParse\temp\wo-in.txt to C:\java projects\FileParsers\WOParser\archive\wo-in.txt
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Successfully copied file.
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Copying c:\testWoParse\temp\wo-in2.txt to C:\java projects\FileParsers\WOParser\archive\wo-in2.txt
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Successfully copied file.
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Copying c:\testWoParse\temp\wo-in3.txt to C:\java projects\FileParsers\WOParser\archive\wo-in3.txt
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Successfully copied file.
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Copying c:\testWoParse\temp\wo-in4.txt to C:\java projects\FileParsers\WOParser\archive\wo-in4.txt
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Successfully copied file.
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Deleting c:\testWoParse\temp\wo-in.txt from server.
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Successfully deleted file
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Deleting c:\testWoParse\temp\wo-in2.txt from server.
+Nov 20, 2014 10:50:46 AM WorkOrderParser log
+SEVERE: Successfully deleted file
+Nov 20, 2014 10:50:47 AM WorkOrderParser log
+SEVERE: Deleting c:\testWoParse\temp\wo-in3.txt from server.
+Nov 20, 2014 10:50:47 AM WorkOrderParser log
+SEVERE: Successfully deleted file
+Nov 20, 2014 10:50:47 AM WorkOrderParser log
+SEVERE: Deleting c:\testWoParse\temp\wo-in4.txt from server.
+Nov 20, 2014 10:50:47 AM WorkOrderParser log
+SEVERE: Successfully deleted file
+Nov 20, 2014 10:50:47 AM WorkOrderParser log
+SEVERE: Parsing file: C:\java projects\FileParsers\WOParser\archive\wo-in.txt into: C:\java projects\FileParsers\WOParser\output\wo-in.txt.rtf
+Nov 20, 2014 10:50:47 AM WorkOrderParser log
+SEVERE: Parsing file: C:\java projects\FileParsers\WOParser\archive\wo-in2.txt into: C:\java projects\FileParsers\WOParser\output\wo-in2.txt.rtf
+Nov 20, 2014 10:50:47 AM WorkOrderParser log
+SEVERE: Parsing file: C:\java projects\FileParsers\WOParser\archive\wo-in3.txt into: C:\java projects\FileParsers\WOParser\output\wo-in3.txt.rtf
+Nov 20, 2014 10:50:47 AM WorkOrderParser log
+SEVERE: Parsing file: C:\java projects\FileParsers\WOParser\archive\wo-in4.txt into: C:\java projects\FileParsers\WOParser\output\wo-in4.txt.rtf
+Nov 20, 2014 10:50:47 AM WorkOrderParser log
+SEVERE: Printing file: C:\java projects\FileParsers\WOParser\output\wo-in.txt.rtf
+Nov 20, 2014 10:50:57 AM WorkOrderParser log
+SEVERE: Successfully printed file.
+Nov 20, 2014 10:50:57 AM WorkOrderParser log
+SEVERE: Printing file: C:\java projects\FileParsers\WOParser\output\wo-in2.txt.rtf
+Nov 20, 2014 10:51:08 AM WorkOrderParser log
+SEVERE: Successfully printed file.
+Nov 20, 2014 10:51:08 AM WorkOrderParser log
+SEVERE: Printing file: C:\java projects\FileParsers\WOParser\output\wo-in3.txt.rtf
+Nov 20, 2014 10:51:28 AM WorkOrderParser log
+SEVERE: Successfully printed file.
+Nov 20, 2014 10:51:28 AM WorkOrderParser log
+SEVERE: Printing file: C:\java projects\FileParsers\WOParser\output\wo-in4.txt.rtf
+Nov 20, 2014 10:51:48 AM WorkOrderParser log
+SEVERE: Successfully printed file.
+Nov 20, 2014 10:51:48 AM WorkOrderParser log
+SEVERE: Deleting C:\java projects\FileParsers\WOParser\output\wo-in.txt.rtf from to-print cache.
+Nov 20, 2014 10:51:48 AM WorkOrderParser log
+SEVERE: Successfully deleted file.
+Nov 20, 2014 10:51:48 AM WorkOrderParser log
+SEVERE: Deleting C:\java projects\FileParsers\WOParser\output\wo-in2.txt.rtf from to-print cache.
+Nov 20, 2014 10:51:48 AM WorkOrderParser log
+SEVERE: Successfully deleted file.
+Nov 20, 2014 10:51:48 AM WorkOrderParser log
+SEVERE: Deleting C:\java projects\FileParsers\WOParser\output\wo-in3.txt.rtf from to-print cache.
+Nov 20, 2014 10:51:48 AM WorkOrderParser log
+SEVERE: Successfully deleted file.
+Nov 20, 2014 10:51:48 AM WorkOrderParser log
+SEVERE: Deleting C:\java projects\FileParsers\WOParser\output\wo-in4.txt.rtf from to-print cache.
+Nov 20, 2014 10:51:48 AM WorkOrderParser log
+SEVERE: Successfully deleted file.
+Nov 20, 2014 10:51:48 AM WorkOrderParser log
+SEVERE: Processing finished, resuming directory monitoring.
