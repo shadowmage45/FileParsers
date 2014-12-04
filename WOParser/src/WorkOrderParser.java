@@ -146,6 +146,7 @@ private void log(String message)
 private boolean copyFiles()
   {
   File[] files = serverFolder.listFiles();
+  if(files==null || files.length<=0){return false;}
   File f1;
   for(File f : files)
     {
